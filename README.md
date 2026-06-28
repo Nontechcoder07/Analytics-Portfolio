@@ -35,8 +35,6 @@ I built an RFM model that scored every customer on Recency, Frequency, and Monet
 | Lost | 30 | 691 | $18,04,057 |
 | **Total** | **89** | **451** | **$97,60,222** |
 
-📁 [`/Analytics-portfolio`](./Analytics-portfolio)
-
 ---
 
 ## Coming Next
