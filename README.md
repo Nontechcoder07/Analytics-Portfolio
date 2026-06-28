@@ -24,7 +24,7 @@ I built an RFM model that scored every customer on Recency, Frequency, and Monet
 
 **Dashboard:**
 
-![RFM Customer Segmentation Dashboard](Screenshot_2026-06-21_091316.png)
+![RFM Customer Segmentation Dashboard](rfm_dashboard.png)
 
 | Segment | Customers | Avg Recency (days) | Revenue |
 |---|---|---|---|
