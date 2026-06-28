@@ -17,23 +17,23 @@ An auto dealership had 89 customers and no way to tell which ones were worth kee
 I built an RFM model that scored every customer on Recency, Frequency, and Monetary value — then grouped them into five actionable segments with clear business implications for each.
 
 **What I found:**
-- 11 Champion customers (12% of the base) drove **31% of total revenue** — ₹29.9L
+- 11 Champion customers (12% of the base) drove **31% of total revenue** — $299K
 - The "Can't Lose Them" segment averaged **777 days** since their last purchase. Urgent.
 - 30 Lost customers represent **₹18L in recoverable revenue** — a win-back campaign waiting to happen
 - The Loyal segment (33 customers, ₹36.8L) is the biggest revenue contributor but showing early signs of recency drift
 
 **Dashboard:**
 
-![RFM Customer Segmentation Dashboard](rfm_dashboard.png)
+![RFM Customer Segmentation Dashboard](Screenshot%202026-06-21%20091316.png)
 
 | Segment | Customers | Avg Recency (days) | Revenue |
 |---|---|---|---|
-| Champion | 11 | 189 | ₹29,97,020 |
-| Loyal Customer | 33 | 352 | ₹36,84,073 |
-| Can't Lose Them | 3 | 777 | ₹4,15,507 |
-| At Risk | 12 | 280 | ₹8,59,564 |
-| Lost | 30 | 691 | ₹18,04,057 |
-| **Total** | **89** | **451** | **₹97,60,222** |
+| Champion | 11 | 189 | $29,97,020 |
+| Loyal Customer | 33 | 352 | $36,84,073 |
+| Can't Lose Them | 3 | 777 | $4,15,507 |
+| At Risk | 12 | 280 | $8,59,564 |
+| Lost | 30 | 691 | $18,04,057 |
+| **Total** | **89** | **451** | **$97,60,222** |
 
 📁 [`/Analytics-portfolio`](./Analytics-portfolio)
 
